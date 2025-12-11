@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌳 **Visualizing Tree Cover Dynamics in the Philippines**
+# 🌳 **Visualizing Tree Cover Dynamics in the Philippines: A Provincial Assessment of Progress Towards SDG 15**
 ### *A Provincial Assessment of Tree Cover Loss (2001–2023)*
 
 <img src="https://github.com/CloudEmp/Visualizing-Tree-Cover-Dynamics-in-the-Philippines/blob/main/Tableau%20-%20Data%20Viz%20Final%20Project%2011_12_2025%209_55_44%20pm.png?raw=true"
