@@ -3,12 +3,21 @@
 # 🌳 **Visualizing Tree Cover Dynamics in the Philippines**
 ### *A Provincial Assessment of Tree Cover Loss (2001–2023)*
 
+<img src="https://github.com/CloudEmp/Visualizing-Tree-Cover-Dynamics-in-the-Philippines/blob/main/Tableau%20-%20Data%20Viz%20Final%20Project%2011_12_2025%209_55_44%20pm.png?raw=true"
+     width="85%"
+     alt="Dashboard Main Screenshot">
+
 </div>
 
 ---
 
 ## 📌 Overview
 This repository contains the final Data Visualization project that examines tree cover loss across Philippine provinces from 2001 to 2023. Using Tableau and Tableau Prep, the project integrates multiple datasets and a provincial shapefile to build a complete dashboard that visualizes spatial patterns, provincial rankings, statistical summaries, and temporal trends in tree cover change. The dashboard combines choropleth maps, bar charts, scatter plots, line charts, and exploratory data analysis views to help users better understand the distribution and behavior of tree cover loss across the country.
+
+---
+
+## 🎯 Project Purpose
+This project aims to identify and compare provinces with the highest and lowest levels of tree cover loss and to highlight spatial and temporal patterns that can support environmental assessment and policy direction. The visualizations focus on provincial hotspots, national patterns, and variations across regions and island groups in alignment with the project's analytical objectives.
 
 ---
 
@@ -88,11 +97,6 @@ Use the navigation buttons inside the workbook to switch between visualization p
 - Scatter Plot  
 - Year-Pivoted Line Chart  
 - EDA Dashboard  
-
----
-
-## 🎯 Project Purpose
-This project aims to identify and compare provinces with the highest and lowest levels of tree cover loss and to highlight spatial and temporal patterns that can support environmental assessment and policy direction. The visualizations focus on provincial hotspots, national patterns, and variations across regions and island groups in alignment with the project's analytical objectives.
 
 ---
 
