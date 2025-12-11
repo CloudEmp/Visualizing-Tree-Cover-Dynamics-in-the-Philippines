@@ -1,0 +1,82 @@
+Province,Region,Island
+Batanes,2,Batanes Islands
+Ilocos Norte,1,Luzon
+Apayao,CAR,Luzon
+Cagayan,2,Luzon
+Abra,CAR,Luzon
+Kalinga,CAR,Luzon
+Ilocos Sur,1,Luzon
+Mountain Province,CAR,Luzon
+Ifugao,CAR,Luzon
+Isabela,2,Luzon
+La Union,1,Luzon
+Benguet,CAR,Luzon
+Nueva Vizcaya,2,Luzon
+Quirino,2,Luzon
+Pangasinan,1,Luzon
+Tarlac,3,Luzon
+Nueva Ecija,3,Luzon
+Aurora,3,Luzon
+Zambales,3,Luzon
+Pampanga,3,Luzon
+Bulacan,3,Luzon
+Bataan,3,Luzon
+Rizal,4,Luzon
+Cavite,4,Luzon
+Laguna,4,Luzon
+Batangas,4,Luzon
+Quezon,4,Luzon
+Camarines Norte,5,Luzon
+Marinduque,MIMAROPA,Marinduque
+Camarines Sur,5,Luzon
+Catanduanes,5,Catanduanes
+Albay,5,Luzon
+Occidental Mindoro,MIMAROPA,Mindoro
+Oriental Mindoro,MIMAROPA,Mindoro
+Romblon,MIMAROPA,Romblon Islands
+Sorsogon,5,Luzon
+Masbate,5,Masbate
+Northern Samar,8,Samar
+Samar,8,Samar
+Eastern Samar,8,Samar
+Aklan,6,Panay
+Capiz,6,Panay
+Antique,6,Panay
+Iloilo,6,Panay
+Biliran,8,Biliran
+Guimaras,6,Guimaras
+Negros Occidental,6,Negros
+Cebu,7,Cebu
+Leyte,8,Leyte
+Southern Leyte,8,Leyte
+Palawan,MIMAROPA,Palawan
+Negros Oriental,7,Negros
+Bohol,7,Bohol
+Siquijor,7,Siquijor
+Camiguin,10,Camiguin
+Dinagat Islands,13,Dinagat Islands
+Surigao del Norte,13,Mindanao
+Zamboanga del Norte,9,Mindanao
+Zamboanga Sibugay,9,Mindanao
+Zamboanga del Sur,9,Mindanao
+Misamis Occidental,10,Mindanao
+Lanao del Norte,10,Mindanao
+Lanao del Sur,BARMM,Mindanao
+Misamis Oriental,10,Mindanao
+Bukidnon,10,Mindanao
+Agusan del Norte,13,Mindanao
+Agusan del Sur,13,Mindanao
+Surigao del Sur,13,Mindanao
+North Cotabato,12,Mindanao
+Davao del Sur,11,Mindanao
+Davao del Norte,11,Mindanao
+Compostela Valley,11,Mindanao
+Davao Oriental,11,Mindanao
+Maguindanao,BARMM,Mindanao
+Sultan Kudarat,12,Mindanao
+South Cotabato,12,Mindanao
+Sarangani,12,Mindanao
+Basilan,BARMM,Basilan
+Sulu,BARMM,Sulu
+Tawi-Tawi,BARMM,Tawi-Tawi
+Metropolitan Manila,NCR,Luzon
