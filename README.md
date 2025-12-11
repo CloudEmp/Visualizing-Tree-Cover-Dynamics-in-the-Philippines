@@ -49,24 +49,57 @@ Geographic boundary data used for mapping provinces in Tableau
 
 ---
 
+## ⚙️ Setup Instructions
+
+Follow the steps below to open and run the dashboard using the files in this repository.
+
+### 1. Download or Clone the Repository
+You may either  
+- click **Code → Download ZIP** and extract the folder, or  
+- run:
+
+### 2. Keep the Folder Structure Intact
+Ensure the following structure remains unchanged
+
+
+Do not rename or move the **data** folder, as Tableau uses these paths when loading data sources.
+
+### 3. Open the Tableau Workbook
+1. Launch **Tableau Desktop**  
+2. Open:
+
+
+### 4. Verify Data Connections
+Tableau will automatically connect to the CSV files and shapefile if the folder structure is unchanged.  
+If Tableau asks you to locate a data source:
+- Browse to the `data` folder  
+- Select the correct CSV or shapefile component  
+
+### 5. Optional: Open the Tableau Prep Flow
+If you want to view or modify the preprocessing steps:
+- Open **Tableau Prep**
+- Load the `.tfl` file inside the `tableau` folder
+
+### 6. Explore the Dashboard
+Use the navigation buttons inside the workbook to switch between visualization pages:
+- Combined Dashboard  
+- Choropleth Map  
+- Sorted Bar Charts  
+- Scatter Plot  
+- Year-Pivoted Line Chart  
+- EDA Dashboard  
+
+---
+
 ## 🎯 Project Purpose
 This project aims to identify and compare provinces with the highest and lowest levels of tree cover loss and to highlight spatial and temporal patterns that can support environmental assessment and policy direction. The visualizations focus on provincial hotspots, national patterns, and variations across regions and island groups in alignment with the project's analytical objectives.
 
 ---
 
 ## 👥 Authors
-(Add your group members here)  
-- Name 1  
-- Name 2  
-- Name 3  
-
----
-
-## 📬 How to Use
-1. Download or clone this repository.  
-2. Open the Tableau workbook file.  
-3. Ensure the data folder remains in the same directory so Tableau can load the datasets.  
-4. Navigate through the dashboard buttons to explore different visualization pages.
+- Drew Darwin Cruz  
+- Melchor Ray Domingo
+- Tristan Daniel Sigua  
 
 ---
 
@@ -75,3 +108,5 @@ This project aims to identify and compare provinces with the highest and lowest 
 ### 🌱 *Thank you for viewing our project!*
 
 </div>
+
+
